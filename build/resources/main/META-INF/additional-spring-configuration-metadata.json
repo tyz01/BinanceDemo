@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "binance.apiKey",
+      "type": "java.lang.String",
+      "description": "Description for binance.apiKey."
+  }
+] }

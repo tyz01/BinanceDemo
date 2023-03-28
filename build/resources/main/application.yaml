@@ -1,0 +1,22 @@
+server:
+  port: 8080
+
+#logging:
+#  level:
+#    org.springframework.web: DEBUG
+#    org.springframework.web.socket: DEBUG
+#
+#spring:
+#  main:
+#    allow-bean-definition-overriding: true
+#
+#feign:
+#  client:
+#    config:
+#      default:
+#        loggerLevel: full
+
+binance:
+  apiKey: MY3CbjTmeazXaKTfqyYcAEtFHDXkofcb9bWfVyEVxJAPJGaoH7QHmnZ3ld7EejIO
+  secretKey: TBa9cpuxtWDWGRLGSPBDWQAVYETawONuzEZF7Dz9vhAGyqjTTO1PsxEdotUfJEMH
+  apiBaseUrl: https://api.binance.com
